@@ -17,7 +17,7 @@ public class DataManager {
     public static void startConnection() {
         dataSource.setUrl("jdbc:mysql://localhost:3306/northwind");
         dataSource.setUsername("root");
-        dataSource.setPassword("8371");
+        dataSource.setPassword("****");
     }
 
     public static void newShipper() {
